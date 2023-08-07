@@ -1,0 +1,8 @@
+/TrackNet/*
+TrackNet/*
+/TrackNet
+Dataset/
+/Dataset/*
+TrackNetDataset/
+
+*zip

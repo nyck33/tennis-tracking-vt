@@ -1,0 +1,17 @@
+name: vision_transformer
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pytorch=1.9.0
+  - torchvision=0.10.0
+  - cudatoolkit=11.1
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scikit-learn
+  - pillow
+  - timm
+  - opencv
