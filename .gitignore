@@ -4,5 +4,7 @@ TrackNet/*
 Dataset/
 /Dataset/*
 TrackNetDataset/
+Python-3.11.3/
+runs/
 
 *zip
